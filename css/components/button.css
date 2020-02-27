@@ -1,0 +1,13 @@
+.btn-yellow {
+	background-color: #D7C378;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: brown;
+	font-weight: bold;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+.btn-yellow:hover {
+	background-color: brown;
+	color: #D7C378;
+
+}
